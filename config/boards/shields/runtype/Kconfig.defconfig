@@ -1,6 +1,6 @@
-if SHIELD_RUNNER65
+if SHIELD_RUNTYPE
             
 config ZMK_KEYBOARD_NAME
-    default "Runner65"
+    default "runtype"
 
 endif

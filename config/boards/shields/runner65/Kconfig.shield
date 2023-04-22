@@ -1,2 +1,0 @@
-config SHIELD_RUNNER65
-    def_bool $(shields_list_contains,runner65)
